@@ -1,0 +1,7 @@
+/*!
+ * SmartFoxServer 2X HTML5/JavaScript API v1.8.5
+ * (c) gotoAndPlay | All rights reserved
+ * http://www.smartfoxserver.com
+ */
+
+/** @license zlib.js 2012 - imaya [ https://github.com/imaya/zlib.js ] The MIT License */

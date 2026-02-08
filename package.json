@@ -1,0 +1,11 @@
+{
+  "name": "ws-bots",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Headless SFS2X WebSocket bots",
+  "main": "bot.js",
+  "dependencies": {
+    "proxy-agent": "^6.4.0",
+    "ws": "^8.16.0"
+  }
+}

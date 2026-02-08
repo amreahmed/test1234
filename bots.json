@@ -1,0 +1,28 @@
+{
+  "host": "sfs.cloxbot.app",
+  "port": 8080,
+  "zone": "marhab",
+  "useSSL": false,
+  "proxyUrl": "",
+  "proxyList": [],
+  "proxyRotateEvery": 100,
+
+  "botCount": 30,
+  "namePrefix": "bot",
+  "password": "botpass",
+  "randomizeNames": true,
+  "nameSuffix": "",
+  "staggerMs": 120,
+  "zoneOnly": true,
+  "sendInit": false,
+  "joinRoom": "",
+
+  "moveIntervalMs": 1500,
+  "gridWidth": 55,
+  "gridHeight": 60,
+
+  "enableRandomClothes": false,
+  "clothShopIds": [6, 7, 62, 63, 52, 53, 15, 21, 121, 999, 1011, 1077, 1079, 1103, 8081],
+  "clothRequestDelayMs": 1200,
+  "clothChangeIntervalMs": 0
+}
