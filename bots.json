@@ -1,8 +1,8 @@
 {
-  "host": "sfs.cloxbot.app",
-  "port": 8080,
+  "host": "sfs.newmarhab.com",
+  "port": 8443,
   "zone": "marhab",
-  "useSSL": false,
+  "useSSL": true,
   "proxyUrl": "",
   "proxyList": [],
   "proxyRotateEvery": 100,
